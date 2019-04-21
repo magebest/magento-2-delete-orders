@@ -15,7 +15,7 @@
 
 ## More features & Demo
 
-- Extension details : https://www.magebest.com/magento-2-social-login-extension.html
+- Extension details : https://www.magebest.com/magento-2-delete-orders-extension.html
 - Frontend demo : https://livedemo.magebest.com/demo-full
 - Backend demo : https://livedemo.magebest.com/demo-full/admin
 
